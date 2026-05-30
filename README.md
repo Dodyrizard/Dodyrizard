@@ -1,10 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Dodyrizard%20Prasetyo&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=40"/>
+![Dodyrizard Prasetyo](img/github-header-1.png)
 
-# 👋 Halo, Saya Dodyrizard Prasetyo
-
-### 🚀 Full Stack Developer | 🔐 Cyber Security Enthusiast
+### 🚀 Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Next.js+Developer;Golang+Learner;Cyber+Security+Enthusiast" />
 
@@ -117,3 +115,19 @@ Platform e-commerce modern dengan fitur AI Anti-Scam Indicator untuk membantu pe
 ### Terima kasih telah mengunjungi profil saya 🚀
 
 </div>
+
+<p align="left">Play some games with me</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Dodyrizard/Dodyrizard/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dodyrizard/Dodyrizard/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dodyrizard/Dodyrizard/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dodyrizard/Dodyrizard/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
