@@ -1,10 +1,12 @@
 <div align="center">
 
-![Dodyrizard Prasetyo](img/github-header-1.png)
+<h1 align="center">
+  Hello 👋 I'm Dodyrizard Prasetyo
+</h1>
 
 ### 🚀 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Laravel+Developer;React+Developer;Next.js+Developer;Golang+Learner;Cyber+Security+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Junior+Fullstack+Developer" />
 
 </div>
 
@@ -88,13 +90,16 @@
 
 ## 🎯 Proyek Yang Sedang Dikembangkan
 
-### 📋 YukKerjain
+### 📋 ToDoApp
 
 Aplikasi manajemen tugas berbasis web dan mobile untuk meningkatkan produktivitas pengguna.
 
 ### 🛒 NextCommerce
 
 Platform e-commerce modern dengan fitur AI Anti-Scam Indicator untuk membantu pengguna mengidentifikasi toko yang aman.
+
+### 🧼 Smart Laundry
+Aplikasi web manajemen laundry yang menyediakan layanan pemesanan online dan antar-jemput laundry. Sistem ini memungkinkan pelanggan melakukan pemesanan, memantau status laundry secara real-time, serta melihat riwayat transaksi melalui satu platform.
 
 ---
 
@@ -115,8 +120,6 @@ Platform e-commerce modern dengan fitur AI Anti-Scam Indicator untuk membantu pe
 ### Terima kasih telah mengunjungi profil saya 🚀
 
 </div>
-
-<p align="left">Play some games with me</p>
 
 ###
 
